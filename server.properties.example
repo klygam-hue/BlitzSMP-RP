@@ -1,6 +1,6 @@
-# Minecraft Java 26.3 - Blitz SMP VisualPack v5 + Cameras (custom resources only)
-resource-pack=https://raw.githubusercontent.com/klygam-hue/BlitzSMP-RP/v5-mc26.3/BlitzSMP26.3-VisualPack-v5-Cameras.zip
-resource-pack-sha1=95488d703326f8f5878972f75088a1d982e6c437
+# Minecraft Java 26.3 - Blitz SMP VisualPack v6 + BlitzCameras 1.0.1
+resource-pack=https://raw.githubusercontent.com/klygam-hue/BlitzSMP-RP/v6-mc26.3/BlitzSMP26.3-VisualPack-v6-Cameras.zip
+resource-pack-sha1=a2bf35d014a2b1b3ba6f45428ad5fbc6f38ba8a6
 resource-pack-id=c07b09ae-2a8d-58a2-ae84-d0170ca64d87
 resource-pack-prompt={"text":"Install the Blitz SMP resource pack for custom textures and security cameras.","color":"aqua"}
 require-resource-pack=true

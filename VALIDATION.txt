@@ -1,29 +1,19 @@
-Blitz SMP VisualPack v5 + Cameras — Minecraft Java 26.3
+Blitz SMP VisualPack v6 + BlitzCameras 1.0.1 — Minecraft Java 26.3
 
-Custom resources only; resource-pack format 97.1.
+No standard vanilla textures are bundled. Existing custom resources preserved.
+Six 64x64 native head skin textures were added; their hat layers are transparent.
+The real camera/computer skull references a pack skin directly, with no overlay.
 
-Removed 11602 unmodified files from the previous full pack.
-Bundled vanilla texture files: 0.
-Bundled unmodified vanilla client asset files: 0.
-Original ZIP: 14570925 bytes. New ZIP: 9207359 bytes.
-All 20 BlitzCameras assets and the other custom namespace assets are preserved.
-Minecraft namespace: additive mod atlas entries and train hat attachments only.
-The standard resources are provided by Minecraft itself.
+Client codec checks: 2404 models, 680 item definitions,
+2 atlases, 3 equipment definitions. Errors: 0.
+ShaderC variants: 16. Native head asset paths resolved: 6.
+Mod-specific item definitions requiring corresponding mods: 64.
 
-Actual Minecraft 26.3 decoders, with the default client available for references:
-Models: 2404
-Item definitions: 680
-Atlases: 2
-Equipment assets: 3
-ShaderC shader variants: 16
-Errors: 0
-Mod-specific item definitions needing matching client mods: 64
+Actual Paper 26.3 plugin checks: 80 passed. Verified native skull profiles,
+legacy overlay removal, wall rotation, zero client walk/fly speed, disabled
+gravity, zero movement attribute, exact position pinning with free yaw/pitch,
+zero knockback, custom speed restoration, checkpoint recovery and replays.
+Players are simulated API proxies; no visual Minecraft gameplay test performed.
 
-ZIP CRC integrity, JSON syntax, camera assets, default-client palette references
-and parent model references checked. Original input archives are unchanged.
-
-Limitations: no GPU visual gameplay test or mod renderer runtime test. The
-64 mod-specific definitions require their own item/component registries.
-
-SHA-1: 95488d703326f8f5878972f75088a1d982e6c437
-SHA-256: 09c0af495c36326467ec216d4bc92a3f51f952947f32406d8f2a94e29a2af913
+SHA-1: a2bf35d014a2b1b3ba6f45428ad5fbc6f38ba8a6
+SHA-256: a25e166e99ef5adb599a769789851b6aeac63cd113d33daab64ac2bbe8b84bf4
