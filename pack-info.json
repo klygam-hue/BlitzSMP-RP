@@ -1,0 +1,16 @@
+{
+  "version": "v4",
+  "minecraft": "26.3",
+  "resource_format": [
+    97,
+    1
+  ],
+  "url": "https://raw.githubusercontent.com/klygam-hue/BlitzSMP-RP/v4-mc26.3/BlitzSMP26.3-VisualPack-v4-Cameras.zip",
+  "sha1": "c72ea29e8b91ab778fad6c3701bde03a98ba4a22",
+  "id": "c07b09ae-2a8d-58a2-ae84-d0170ca64d87",
+  "prompt": {
+    "text": "Install the Blitz SMP resource pack for custom textures and security cameras.",
+    "color": "aqua"
+  },
+  "tag": "v4-mc26.3"
+}
